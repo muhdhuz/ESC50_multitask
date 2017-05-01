@@ -1,0 +1,1054 @@
+*** Initializing Run #0 ***
+MTL: loss at step 0, epoch 0: 620.608826
+STL: loss at step 0, epoch 0: 583.158508
+MTL: Training- main task accuracy: 0.0%, sec task accuracy: 25.0%
+STL: Training- main task accuracy: 5.0%
+MTL: Test- main task accuracy: 3.2%, sec task accuracy: 17.5%
+STL: Test- main task accuracy: 2.8%
+------------------------
+MTL: loss at step 1600, epoch 20: 8.331163
+STL: loss at step 1600, epoch 20: 5.442678
+MTL: Training- main task accuracy: 60.0%, sec task accuracy: 60.0%
+STL: Training- main task accuracy: 70.0%
+MTL: Test- main task accuracy: 44.2%, sec task accuracy: 53.7%
+STL: Test- main task accuracy: 40.8%
+------------------------
+MTL: loss at step 3200, epoch 40: 5.961020
+STL: loss at step 3200, epoch 40: 4.584316
+MTL: Training- main task accuracy: 45.0%, sec task accuracy: 60.0%
+STL: Training- main task accuracy: 45.0%
+MTL: Test- main task accuracy: 44.5%, sec task accuracy: 56.8%
+STL: Test- main task accuracy: 49.0%
+------------------------
+MTL: loss at step 4800, epoch 60: 4.639642
+STL: loss at step 4800, epoch 60: 3.611144
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 95.0%
+STL: Training- main task accuracy: 65.0%
+MTL: Test- main task accuracy: 54.5%, sec task accuracy: 63.2%
+STL: Test- main task accuracy: 50.7%
+------------------------
+MTL: loss at step 6400, epoch 80: 4.160604
+STL: loss at step 6400, epoch 80: 2.719546
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 70.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 53.5%, sec task accuracy: 61.2%
+STL: Test- main task accuracy: 51.2%
+------------------------
+MTL: loss at step 8000, epoch 100: 3.877516
+STL: loss at step 8000, epoch 100: 2.466378
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 75.0%
+STL: Training- main task accuracy: 90.0%
+MTL: Test- main task accuracy: 51.5%, sec task accuracy: 60.5%
+STL: Test- main task accuracy: 51.8%
+------------------------
+MTL: loss at step 9600, epoch 120: 3.685897
+STL: loss at step 9600, epoch 120: 2.739837
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 70.0%
+MTL: Test- main task accuracy: 54.2%, sec task accuracy: 60.8%
+STL: Test- main task accuracy: 53.2%
+------------------------
+MTL: loss at step 11200, epoch 140: 3.565474
+STL: loss at step 11200, epoch 140: 2.333236
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 56.2%, sec task accuracy: 61.0%
+STL: Test- main task accuracy: 54.5%
+------------------------
+MTL: loss at step 12800, epoch 160: 3.772904
+STL: loss at step 12800, epoch 160: 2.477095
+MTL: Training- main task accuracy: 75.0%, sec task accuracy: 75.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 54.8%, sec task accuracy: 64.8%
+STL: Test- main task accuracy: 54.2%
+------------------------
+MTL: loss at step 14400, epoch 180: 3.342042
+STL: loss at step 14400, epoch 180: 2.092250
+MTL: Training- main task accuracy: 75.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 90.0%
+MTL: Test- main task accuracy: 57.8%, sec task accuracy: 58.7%
+STL: Test- main task accuracy: 53.0%
+------------------------
+MTL: loss at step 16000, epoch 200: 3.498526
+STL: loss at step 16000, epoch 200: 2.463529
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 75.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 57.0%, sec task accuracy: 61.7%
+STL: Test- main task accuracy: 54.8%
+------------------------
+MTL: loss at step 17600, epoch 220: 3.699966
+STL: loss at step 17600, epoch 220: 2.415887
+MTL: Training- main task accuracy: 75.0%, sec task accuracy: 75.0%
+STL: Training- main task accuracy: 60.0%
+MTL: Test- main task accuracy: 57.8%, sec task accuracy: 61.0%
+STL: Test- main task accuracy: 55.8%
+------------------------
+MTL: loss at step 19200, epoch 240: 3.632219
+STL: loss at step 19200, epoch 240: 2.332979
+MTL: Training- main task accuracy: 95.0%, sec task accuracy: 75.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 57.2%, sec task accuracy: 59.5%
+STL: Test- main task accuracy: 59.0%
+------------------------
+MTL: loss at step 20800, epoch 260: 3.260308
+STL: loss at step 20800, epoch 260: 2.194382
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 54.2%, sec task accuracy: 59.2%
+STL: Test- main task accuracy: 54.8%
+------------------------
+MTL: loss at step 22400, epoch 280: 4.005807
+STL: loss at step 22400, epoch 280: 2.406090
+MTL: Training- main task accuracy: 70.0%, sec task accuracy: 75.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 57.5%, sec task accuracy: 59.2%
+STL: Test- main task accuracy: 54.5%
+------------------------
+MTL: loss at step 24000, epoch 300: 3.823435
+STL: loss at step 24000, epoch 300: 2.226957
+MTL: Training- main task accuracy: 75.0%, sec task accuracy: 75.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 56.8%, sec task accuracy: 63.2%
+STL: Test- main task accuracy: 57.5%
+------------------------
+MTL: loss at step 25600, epoch 320: 3.402618
+STL: loss at step 25600, epoch 320: 2.648010
+MTL: Training- main task accuracy: 75.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 60.0%
+MTL: Test- main task accuracy: 58.3%, sec task accuracy: 63.2%
+STL: Test- main task accuracy: 57.8%
+------------------------
+MTL: loss at step 27200, epoch 340: 3.071531
+STL: loss at step 27200, epoch 340: 2.220049
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 58.5%, sec task accuracy: 58.5%
+STL: Test- main task accuracy: 58.0%
+------------------------
+MTL: loss at step 28800, epoch 360: 3.376368
+STL: loss at step 28800, epoch 360: 2.068502
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 90.0%
+MTL: Test- main task accuracy: 57.5%, sec task accuracy: 62.5%
+STL: Test- main task accuracy: 56.8%
+------------------------
+MTL: loss at step 30400, epoch 380: 3.249788
+STL: loss at step 30400, epoch 380: 2.318251
+MTL: Training- main task accuracy: 75.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 58.2%, sec task accuracy: 60.0%
+STL: Test- main task accuracy: 57.2%
+------------------------
+MTL: loss at step 32000, epoch 400: 3.307291
+STL: loss at step 32000, epoch 400: 2.071230
+MTL: Training- main task accuracy: 75.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 57.8%, sec task accuracy: 64.2%
+STL: Test- main task accuracy: 56.0%
+------------------------
+MTL: loss at step 33600, epoch 420: 3.697998
+STL: loss at step 33600, epoch 420: 2.049822
+MTL: Training- main task accuracy: 70.0%, sec task accuracy: 65.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 57.8%, sec task accuracy: 60.0%
+STL: Test- main task accuracy: 54.7%
+------------------------
+MTL: loss at step 35200, epoch 440: 3.257941
+STL: loss at step 35200, epoch 440: 2.289113
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 65.0%
+MTL: Test- main task accuracy: 60.5%, sec task accuracy: 60.5%
+STL: Test- main task accuracy: 56.0%
+------------------------
+MTL: loss at step 36800, epoch 460: 2.921499
+STL: loss at step 36800, epoch 460: 1.690656
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 95.0%
+MTL: Test- main task accuracy: 59.2%, sec task accuracy: 61.5%
+STL: Test- main task accuracy: 56.5%
+------------------------
+MTL: loss at step 38400, epoch 480: 3.048659
+STL: loss at step 38400, epoch 480: 2.252440
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 57.8%, sec task accuracy: 63.0%
+STL: Test- main task accuracy: 57.0%
+------------------------
+MTL: loss at step 40000, epoch 500: 2.906748
+STL: loss at step 40000, epoch 500: 1.846505
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 55.8%, sec task accuracy: 57.5%
+STL: Test- main task accuracy: 57.5%
+------------------------
+MTL: loss at step 41600, epoch 520: 2.926495
+STL: loss at step 41600, epoch 520: 2.036867
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 58.0%, sec task accuracy: 62.8%
+STL: Test- main task accuracy: 57.2%
+------------------------
+MTL: loss at step 43200, epoch 540: 3.114245
+STL: loss at step 43200, epoch 540: 2.191868
+MTL: Training- main task accuracy: 75.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 70.0%
+MTL: Test- main task accuracy: 59.8%, sec task accuracy: 61.5%
+STL: Test- main task accuracy: 57.8%
+------------------------
+MTL: loss at step 44800, epoch 560: 3.418964
+STL: loss at step 44800, epoch 560: 2.205773
+MTL: Training- main task accuracy: 65.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 70.0%
+MTL: Test- main task accuracy: 58.5%, sec task accuracy: 63.5%
+STL: Test- main task accuracy: 56.5%
+------------------------
+MTL: loss at step 46400, epoch 580: 2.992488
+STL: loss at step 46400, epoch 580: 1.761308
+MTL: Training- main task accuracy: 75.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 95.0%
+MTL: Test- main task accuracy: 53.2%, sec task accuracy: 61.8%
+STL: Test- main task accuracy: 55.8%
+------------------------
+MTL: loss at step 48000, epoch 600: 3.026057
+STL: loss at step 48000, epoch 600: 2.075065
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 75.0%
+STL: Training- main task accuracy: 60.0%
+MTL: Test- main task accuracy: 59.0%, sec task accuracy: 62.2%
+STL: Test- main task accuracy: 59.5%
+------------------------
+MTL: loss at step 49600, epoch 620: 3.696742
+STL: loss at step 49600, epoch 620: 2.039809
+MTL: Training- main task accuracy: 70.0%, sec task accuracy: 65.0%
+STL: Training- main task accuracy: 90.0%
+MTL: Test- main task accuracy: 58.0%, sec task accuracy: 62.7%
+STL: Test- main task accuracy: 58.7%
+------------------------
+MTL: loss at step 51200, epoch 640: 2.778440
+STL: loss at step 51200, epoch 640: 2.197252
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 57.8%, sec task accuracy: 63.8%
+STL: Test- main task accuracy: 57.0%
+------------------------
+MTL: loss at step 52800, epoch 660: 2.885781
+STL: loss at step 52800, epoch 660: 1.965573
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 70.0%
+MTL: Test- main task accuracy: 59.2%, sec task accuracy: 63.5%
+STL: Test- main task accuracy: 54.7%
+------------------------
+MTL: loss at step 54400, epoch 680: 3.076449
+STL: loss at step 54400, epoch 680: 2.212557
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 95.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 57.8%, sec task accuracy: 62.7%
+STL: Test- main task accuracy: 56.5%
+------------------------
+MTL: loss at step 56000, epoch 700: 2.960851
+STL: loss at step 56000, epoch 700: 2.022644
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 60.5%, sec task accuracy: 59.2%
+STL: Test- main task accuracy: 58.7%
+------------------------
+MTL: loss at step 57600, epoch 720: 3.488174
+STL: loss at step 57600, epoch 720: 2.341388
+MTL: Training- main task accuracy: 75.0%, sec task accuracy: 75.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 61.8%, sec task accuracy: 64.0%
+STL: Test- main task accuracy: 60.0%
+------------------------
+MTL: loss at step 59200, epoch 740: 3.272745
+STL: loss at step 59200, epoch 740: 1.897217
+MTL: Training- main task accuracy: 70.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 58.2%, sec task accuracy: 60.5%
+STL: Test- main task accuracy: 57.7%
+------------------------
+MTL: loss at step 60800, epoch 760: 2.922837
+STL: loss at step 60800, epoch 760: 2.370762
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 58.7%, sec task accuracy: 60.5%
+STL: Test- main task accuracy: 59.0%
+------------------------
+MTL: loss at step 62400, epoch 780: 2.815280
+STL: loss at step 62400, epoch 780: 2.300623
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 95.0%
+STL: Training- main task accuracy: 65.0%
+MTL: Test- main task accuracy: 58.7%, sec task accuracy: 59.7%
+STL: Test- main task accuracy: 59.8%
+------------------------
+MTL: loss at step 64000, epoch 800: 2.944407
+STL: loss at step 64000, epoch 800: 2.485289
+MTL: Training- main task accuracy: 75.0%, sec task accuracy: 95.0%
+STL: Training- main task accuracy: 70.0%
+MTL: Test- main task accuracy: 60.0%, sec task accuracy: 60.2%
+STL: Test- main task accuracy: 56.5%
+------------------------
+MTL: loss at step 65600, epoch 820: 3.316688
+STL: loss at step 65600, epoch 820: 2.419941
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 70.0%
+MTL: Test- main task accuracy: 56.0%, sec task accuracy: 62.8%
+STL: Test- main task accuracy: 57.0%
+------------------------
+MTL: loss at step 67200, epoch 840: 2.857418
+STL: loss at step 67200, epoch 840: 2.143995
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 75.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 57.2%, sec task accuracy: 61.5%
+STL: Test- main task accuracy: 57.5%
+------------------------
+MTL: loss at step 68800, epoch 860: 2.795035
+STL: loss at step 68800, epoch 860: 2.067705
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 60.7%, sec task accuracy: 61.7%
+STL: Test- main task accuracy: 57.8%
+------------------------
+MTL: loss at step 70400, epoch 880: 2.782572
+STL: loss at step 70400, epoch 880: 2.223454
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 95.0%
+STL: Training- main task accuracy: 65.0%
+MTL: Test- main task accuracy: 58.2%, sec task accuracy: 59.0%
+STL: Test- main task accuracy: 58.2%
+------------------------
+MTL: loss at step 72000, epoch 900: 3.157176
+STL: loss at step 72000, epoch 900: 2.204461
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 70.0%
+MTL: Test- main task accuracy: 60.7%, sec task accuracy: 61.5%
+STL: Test- main task accuracy: 58.0%
+------------------------
+MTL: loss at step 73600, epoch 920: 2.905334
+STL: loss at step 73600, epoch 920: 2.097796
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 58.7%, sec task accuracy: 60.2%
+STL: Test- main task accuracy: 57.8%
+------------------------
+MTL: loss at step 75200, epoch 940: 3.124063
+STL: loss at step 75200, epoch 940: 1.806884
+MTL: Training- main task accuracy: 75.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 90.0%
+MTL: Test- main task accuracy: 59.2%, sec task accuracy: 62.0%
+STL: Test- main task accuracy: 59.0%
+------------------------
+MTL: loss at step 76800, epoch 960: 3.186804
+STL: loss at step 76800, epoch 960: 1.787093
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 90.0%
+MTL: Test- main task accuracy: 61.2%, sec task accuracy: 59.7%
+STL: Test- main task accuracy: 57.5%
+------------------------
+MTL: loss at step 78400, epoch 980: 2.970186
+STL: loss at step 78400, epoch 980: 1.927615
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 75.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 59.5%, sec task accuracy: 62.2%
+STL: Test- main task accuracy: 59.2%
+------------------------
+MTL: loss at step 80000, epoch 1000: 2.869149
+STL: loss at step 80000, epoch 1000: 1.868450
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 90.0%
+MTL: Test- main task accuracy: 59.5%, sec task accuracy: 60.3%
+STL: Test- main task accuracy: 56.8%
+------------------------
+MTL: loss at step 81600, epoch 1020: 3.090392
+STL: loss at step 81600, epoch 1020: 1.804797
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 75.0%
+STL: Training- main task accuracy: 95.0%
+MTL: Test- main task accuracy: 60.3%, sec task accuracy: 60.5%
+STL: Test- main task accuracy: 59.3%
+------------------------
+MTL: loss at step 83200, epoch 1040: 3.010528
+STL: loss at step 83200, epoch 1040: 1.690184
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 95.0%
+MTL: Test- main task accuracy: 61.0%, sec task accuracy: 63.0%
+STL: Test- main task accuracy: 59.8%
+------------------------
+MTL: loss at step 84800, epoch 1060: 2.688402
+STL: loss at step 84800, epoch 1060: 1.953307
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 95.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 59.5%, sec task accuracy: 60.7%
+STL: Test- main task accuracy: 55.5%
+------------------------
+MTL: loss at step 86400, epoch 1080: 2.774609
+STL: loss at step 86400, epoch 1080: 1.952498
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 90.0%
+MTL: Test- main task accuracy: 57.8%, sec task accuracy: 62.0%
+STL: Test- main task accuracy: 60.0%
+------------------------
+MTL: loss at step 88000, epoch 1100: 3.132326
+STL: loss at step 88000, epoch 1100: 2.120653
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 70.0%
+MTL: Test- main task accuracy: 59.2%, sec task accuracy: 63.5%
+STL: Test- main task accuracy: 54.8%
+------------------------
+MTL: loss at step 89600, epoch 1120: 3.118748
+STL: loss at step 89600, epoch 1120: 2.156963
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 58.5%, sec task accuracy: 61.0%
+STL: Test- main task accuracy: 57.2%
+------------------------
+MTL: loss at step 91200, epoch 1140: 3.173182
+STL: loss at step 91200, epoch 1140: 2.037613
+MTL: Training- main task accuracy: 75.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 59.7%, sec task accuracy: 60.7%
+STL: Test- main task accuracy: 55.5%
+------------------------
+MTL: loss at step 92800, epoch 1160: 3.214751
+STL: loss at step 92800, epoch 1160: 1.813331
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 59.0%, sec task accuracy: 64.8%
+STL: Test- main task accuracy: 58.2%
+------------------------
+MTL: loss at step 94400, epoch 1180: 2.513618
+STL: loss at step 94400, epoch 1180: 1.555453
+MTL: Training- main task accuracy: 95.0%, sec task accuracy: 95.0%
+STL: Training- main task accuracy: 100.0%
+MTL: Test- main task accuracy: 57.8%, sec task accuracy: 61.2%
+STL: Test- main task accuracy: 56.0%
+------------------------
+MTL: loss at step 96000, epoch 1200: 2.951980
+STL: loss at step 96000, epoch 1200: 2.097180
+MTL: Training- main task accuracy: 75.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 90.0%
+MTL: Test- main task accuracy: 56.8%, sec task accuracy: 59.7%
+STL: Test- main task accuracy: 59.3%
+------------------------
+MTL: loss at step 97600, epoch 1220: 2.575598
+STL: loss at step 97600, epoch 1220: 1.991077
+MTL: Training- main task accuracy: 95.0%, sec task accuracy: 95.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 60.5%, sec task accuracy: 64.0%
+STL: Test- main task accuracy: 57.2%
+------------------------
+MTL: loss at step 99200, epoch 1240: 3.130364
+STL: loss at step 99200, epoch 1240: 1.960712
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 58.2%, sec task accuracy: 62.2%
+STL: Test- main task accuracy: 57.8%
+------------------------
+MTL: loss at step 100800, epoch 1260: 3.173298
+STL: loss at step 100800, epoch 1260: 1.806993
+MTL: Training- main task accuracy: 75.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 90.0%
+MTL: Test- main task accuracy: 57.8%, sec task accuracy: 61.7%
+STL: Test- main task accuracy: 57.5%
+------------------------
+MTL: loss at step 102400, epoch 1280: 2.968071
+STL: loss at step 102400, epoch 1280: 1.929335
+MTL: Training- main task accuracy: 95.0%, sec task accuracy: 75.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 59.2%, sec task accuracy: 63.2%
+STL: Test- main task accuracy: 60.5%
+------------------------
+MTL: loss at step 104000, epoch 1300: 3.151381
+STL: loss at step 104000, epoch 1300: 1.956411
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 90.0%
+MTL: Test- main task accuracy: 58.7%, sec task accuracy: 62.0%
+STL: Test- main task accuracy: 58.2%
+------------------------
+MTL: loss at step 105600, epoch 1320: 3.142389
+STL: loss at step 105600, epoch 1320: 1.712055
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 95.0%
+MTL: Test- main task accuracy: 59.5%, sec task accuracy: 61.5%
+STL: Test- main task accuracy: 59.0%
+------------------------
+MTL: loss at step 107200, epoch 1340: 3.050504
+STL: loss at step 107200, epoch 1340: 2.012254
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 58.2%, sec task accuracy: 60.2%
+STL: Test- main task accuracy: 56.5%
+------------------------
+MTL: loss at step 108800, epoch 1360: 3.011452
+STL: loss at step 108800, epoch 1360: 1.921444
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 58.7%, sec task accuracy: 58.7%
+STL: Test- main task accuracy: 55.7%
+------------------------
+MTL: loss at step 110400, epoch 1380: 3.324523
+STL: loss at step 110400, epoch 1380: 2.326220
+MTL: Training- main task accuracy: 65.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 65.0%
+MTL: Test- main task accuracy: 59.7%, sec task accuracy: 61.5%
+STL: Test- main task accuracy: 56.2%
+------------------------
+MTL: loss at step 112000, epoch 1400: 3.310612
+STL: loss at step 112000, epoch 1400: 2.262787
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 75.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 58.5%, sec task accuracy: 58.0%
+STL: Test- main task accuracy: 57.5%
+------------------------
+MTL: loss at step 113600, epoch 1420: 2.684867
+STL: loss at step 113600, epoch 1420: 1.696352
+MTL: Training- main task accuracy: 95.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 58.0%, sec task accuracy: 60.5%
+STL: Test- main task accuracy: 56.8%
+------------------------
+MTL: loss at step 115200, epoch 1440: 3.336294
+STL: loss at step 115200, epoch 1440: 2.145909
+MTL: Training- main task accuracy: 75.0%, sec task accuracy: 75.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 56.8%, sec task accuracy: 56.0%
+STL: Test- main task accuracy: 59.2%
+------------------------
+MTL: loss at step 116800, epoch 1460: 3.144095
+STL: loss at step 116800, epoch 1460: 1.959498
+MTL: Training- main task accuracy: 75.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 70.0%
+MTL: Test- main task accuracy: 58.2%, sec task accuracy: 60.5%
+STL: Test- main task accuracy: 55.0%
+------------------------
+MTL: loss at step 118400, epoch 1480: 2.821102
+STL: loss at step 118400, epoch 1480: 2.362606
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 59.7%, sec task accuracy: 60.5%
+STL: Test- main task accuracy: 59.5%
+------------------------
+MTL: loss at step 120000, epoch 1500: 2.570060
+STL: loss at step 120000, epoch 1500: 1.825055
+MTL: Training- main task accuracy: 95.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 55.0%, sec task accuracy: 62.0%
+STL: Test- main task accuracy: 58.8%
+------------------------
+MTL: loss at step 121600, epoch 1520: 3.276898
+STL: loss at step 121600, epoch 1520: 2.221424
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 70.0%
+STL: Training- main task accuracy: 60.0%
+MTL: Test- main task accuracy: 59.5%, sec task accuracy: 59.5%
+STL: Test- main task accuracy: 57.5%
+------------------------
+MTL: loss at step 123200, epoch 1540: 2.525384
+STL: loss at step 123200, epoch 1540: 2.008131
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 100.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 57.5%, sec task accuracy: 63.5%
+STL: Test- main task accuracy: 57.2%
+------------------------
+MTL: loss at step 124800, epoch 1560: 2.651157
+STL: loss at step 124800, epoch 1560: 1.717651
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 90.0%
+MTL: Test- main task accuracy: 60.5%, sec task accuracy: 59.2%
+STL: Test- main task accuracy: 57.8%
+------------------------
+MTL: loss at step 126400, epoch 1580: 2.970162
+STL: loss at step 126400, epoch 1580: 1.755334
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 95.0%
+MTL: Test- main task accuracy: 57.8%, sec task accuracy: 61.7%
+STL: Test- main task accuracy: 57.8%
+------------------------
+MTL: loss at step 128000, epoch 1600: 3.054615
+STL: loss at step 128000, epoch 1600: 2.060853
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 61.0%, sec task accuracy: 58.5%
+STL: Test- main task accuracy: 60.0%
+------------------------
+MTL: loss at step 129600, epoch 1620: 3.282936
+STL: loss at step 129600, epoch 1620: 2.062852
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 60.5%, sec task accuracy: 62.0%
+STL: Test- main task accuracy: 59.0%
+------------------------
+MTL: loss at step 131200, epoch 1640: 2.658981
+STL: loss at step 131200, epoch 1640: 1.843093
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 90.0%
+MTL: Test- main task accuracy: 59.8%, sec task accuracy: 62.7%
+STL: Test- main task accuracy: 59.0%
+------------------------
+MTL: loss at step 132800, epoch 1660: 3.110133
+STL: loss at step 132800, epoch 1660: 1.884078
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 70.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 60.8%, sec task accuracy: 63.0%
+STL: Test- main task accuracy: 58.7%
+------------------------
+MTL: loss at step 134400, epoch 1680: 3.059668
+STL: loss at step 134400, epoch 1680: 1.967953
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 58.0%, sec task accuracy: 58.7%
+STL: Test- main task accuracy: 56.2%
+------------------------
+MTL: loss at step 136000, epoch 1700: 2.803642
+STL: loss at step 136000, epoch 1700: 2.058049
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 95.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 60.5%, sec task accuracy: 62.2%
+STL: Test- main task accuracy: 57.8%
+------------------------
+MTL: loss at step 137600, epoch 1720: 3.018422
+STL: loss at step 137600, epoch 1720: 1.683478
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 70.0%
+STL: Training- main task accuracy: 90.0%
+MTL: Test- main task accuracy: 58.2%, sec task accuracy: 60.2%
+STL: Test- main task accuracy: 58.7%
+------------------------
+MTL: loss at step 139200, epoch 1740: 2.989549
+STL: loss at step 139200, epoch 1740: 1.765611
+MTL: Training- main task accuracy: 70.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 95.0%
+MTL: Test- main task accuracy: 58.5%, sec task accuracy: 63.7%
+STL: Test- main task accuracy: 56.2%
+------------------------
+MTL: loss at step 140800, epoch 1760: 2.840695
+STL: loss at step 140800, epoch 1760: 2.057166
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 70.0%
+MTL: Test- main task accuracy: 59.3%, sec task accuracy: 59.5%
+STL: Test- main task accuracy: 58.0%
+------------------------
+MTL: loss at step 142400, epoch 1780: 2.691779
+STL: loss at step 142400, epoch 1780: 1.776447
+MTL: Training- main task accuracy: 95.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 95.0%
+MTL: Test- main task accuracy: 55.0%, sec task accuracy: 62.0%
+STL: Test- main task accuracy: 59.0%
+------------------------
+MTL: loss at step 144000, epoch 1800: 2.941334
+STL: loss at step 144000, epoch 1800: 2.036157
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 70.0%
+MTL: Test- main task accuracy: 60.7%, sec task accuracy: 62.8%
+STL: Test- main task accuracy: 60.0%
+------------------------
+MTL: loss at step 145600, epoch 1820: 2.933179
+STL: loss at step 145600, epoch 1820: 2.068342
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 56.5%, sec task accuracy: 61.7%
+STL: Test- main task accuracy: 60.0%
+------------------------
+MTL: loss at step 147200, epoch 1840: 2.638790
+STL: loss at step 147200, epoch 1840: 1.771600
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 100.0%
+STL: Training- main task accuracy: 90.0%
+MTL: Test- main task accuracy: 59.5%, sec task accuracy: 61.5%
+STL: Test- main task accuracy: 57.5%
+------------------------
+MTL: loss at step 148800, epoch 1860: 3.591130
+STL: loss at step 148800, epoch 1860: 2.360844
+MTL: Training- main task accuracy: 75.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 57.8%, sec task accuracy: 63.0%
+STL: Test- main task accuracy: 58.2%
+------------------------
+MTL: loss at step 150400, epoch 1880: 3.454618
+STL: loss at step 150400, epoch 1880: 1.989538
+MTL: Training- main task accuracy: 55.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 58.5%, sec task accuracy: 57.0%
+STL: Test- main task accuracy: 58.2%
+------------------------
+MTL: loss at step 152000, epoch 1900: 3.401748
+STL: loss at step 152000, epoch 1900: 2.062866
+MTL: Training- main task accuracy: 75.0%, sec task accuracy: 55.0%
+STL: Training- main task accuracy: 65.0%
+MTL: Test- main task accuracy: 59.0%, sec task accuracy: 64.0%
+STL: Test- main task accuracy: 59.5%
+------------------------
+MTL: loss at step 153600, epoch 1920: 2.938220
+STL: loss at step 153600, epoch 1920: 1.788921
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 61.2%, sec task accuracy: 60.7%
+STL: Test- main task accuracy: 59.0%
+------------------------
+MTL: loss at step 155200, epoch 1940: 3.129531
+STL: loss at step 155200, epoch 1940: 1.916013
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 60.0%, sec task accuracy: 62.7%
+STL: Test- main task accuracy: 57.2%
+------------------------
+MTL: loss at step 156800, epoch 1960: 2.943947
+STL: loss at step 156800, epoch 1960: 1.996725
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 60.0%, sec task accuracy: 62.2%
+STL: Test- main task accuracy: 56.7%
+------------------------
+MTL: loss at step 158400, epoch 1980: 2.782610
+STL: loss at step 158400, epoch 1980: 1.872591
+MTL: Training- main task accuracy: 95.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 61.5%, sec task accuracy: 66.2%
+STL: Test- main task accuracy: 57.8%
+------------------------
+MTL: loss at step 160000, epoch 2000: 2.698405
+STL: loss at step 160000, epoch 2000: 1.665360
+MTL: Training- main task accuracy: 95.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 58.0%, sec task accuracy: 58.5%
+STL: Test- main task accuracy: 58.0%
+------------------------
+MTL: loss at step 161600, epoch 2020: 3.061992
+STL: loss at step 161600, epoch 2020: 2.052055
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 65.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 57.2%, sec task accuracy: 60.2%
+STL: Test- main task accuracy: 57.2%
+------------------------
+MTL: loss at step 163200, epoch 2040: 2.492172
+STL: loss at step 163200, epoch 2040: 1.795054
+MTL: Training- main task accuracy: 100.0%, sec task accuracy: 95.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 60.5%, sec task accuracy: 62.2%
+STL: Test- main task accuracy: 61.0%
+------------------------
+MTL: loss at step 164800, epoch 2060: 2.646201
+STL: loss at step 164800, epoch 2060: 2.002327
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 58.5%, sec task accuracy: 64.2%
+STL: Test- main task accuracy: 59.5%
+------------------------
+MTL: loss at step 166400, epoch 2080: 2.907943
+STL: loss at step 166400, epoch 2080: 1.926944
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 59.3%, sec task accuracy: 61.5%
+STL: Test- main task accuracy: 57.2%
+------------------------
+MTL: loss at step 168000, epoch 2100: 3.428373
+STL: loss at step 168000, epoch 2100: 1.646108
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 60.0%
+STL: Training- main task accuracy: 100.0%
+MTL: Test- main task accuracy: 60.3%, sec task accuracy: 61.5%
+STL: Test- main task accuracy: 60.0%
+------------------------
+MTL: loss at step 169600, epoch 2120: 3.165081
+STL: loss at step 169600, epoch 2120: 2.035965
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 70.0%
+STL: Training- main task accuracy: 70.0%
+MTL: Test- main task accuracy: 58.5%, sec task accuracy: 60.2%
+STL: Test- main task accuracy: 58.7%
+------------------------
+MTL: loss at step 171200, epoch 2140: 3.045321
+STL: loss at step 171200, epoch 2140: 2.355190
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 65.0%
+MTL: Test- main task accuracy: 60.0%, sec task accuracy: 60.5%
+STL: Test- main task accuracy: 58.7%
+------------------------
+MTL: loss at step 172800, epoch 2160: 2.650835
+STL: loss at step 172800, epoch 2160: 1.775279
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 95.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 62.8%, sec task accuracy: 63.0%
+STL: Test- main task accuracy: 56.5%
+------------------------
+MTL: loss at step 174400, epoch 2180: 2.848467
+STL: loss at step 174400, epoch 2180: 1.821650
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 56.2%, sec task accuracy: 63.8%
+STL: Test- main task accuracy: 57.2%
+------------------------
+MTL: loss at step 176000, epoch 2200: 2.817261
+STL: loss at step 176000, epoch 2200: 2.155445
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 70.0%
+MTL: Test- main task accuracy: 58.2%, sec task accuracy: 60.2%
+STL: Test- main task accuracy: 58.2%
+------------------------
+MTL: loss at step 177600, epoch 2220: 2.902285
+STL: loss at step 177600, epoch 2220: 1.832121
+MTL: Training- main task accuracy: 75.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 58.5%, sec task accuracy: 64.5%
+STL: Test- main task accuracy: 59.3%
+------------------------
+MTL: loss at step 179200, epoch 2240: 3.120801
+STL: loss at step 179200, epoch 2240: 1.759557
+MTL: Training- main task accuracy: 70.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 59.0%, sec task accuracy: 64.0%
+STL: Test- main task accuracy: 58.2%
+------------------------
+MTL: loss at step 180800, epoch 2260: 2.790112
+STL: loss at step 180800, epoch 2260: 2.004663
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 58.2%, sec task accuracy: 61.0%
+STL: Test- main task accuracy: 58.2%
+------------------------
+MTL: loss at step 182400, epoch 2280: 2.439945
+STL: loss at step 182400, epoch 2280: 2.158097
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 100.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 62.2%, sec task accuracy: 60.0%
+STL: Test- main task accuracy: 58.5%
+------------------------
+MTL: loss at step 184000, epoch 2300: 3.359360
+STL: loss at step 184000, epoch 2300: 2.494772
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 55.0%
+STL: Training- main task accuracy: 65.0%
+MTL: Test- main task accuracy: 58.5%, sec task accuracy: 62.7%
+STL: Test- main task accuracy: 60.5%
+------------------------
+MTL: loss at step 185600, epoch 2320: 2.610558
+STL: loss at step 185600, epoch 2320: 1.947627
+MTL: Training- main task accuracy: 95.0%, sec task accuracy: 95.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 57.8%, sec task accuracy: 62.2%
+STL: Test- main task accuracy: 57.0%
+------------------------
+MTL: loss at step 187200, epoch 2340: 3.859254
+STL: loss at step 187200, epoch 2340: 1.897738
+MTL: Training- main task accuracy: 70.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 90.0%
+MTL: Test- main task accuracy: 59.0%, sec task accuracy: 64.0%
+STL: Test- main task accuracy: 58.2%
+------------------------
+MTL: loss at step 188800, epoch 2360: 2.716408
+STL: loss at step 188800, epoch 2360: 1.965570
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 95.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 58.7%, sec task accuracy: 62.0%
+STL: Test- main task accuracy: 59.2%
+------------------------
+MTL: loss at step 190400, epoch 2380: 2.988410
+STL: loss at step 190400, epoch 2380: 2.061547
+MTL: Training- main task accuracy: 75.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 60.5%, sec task accuracy: 64.0%
+STL: Test- main task accuracy: 59.0%
+------------------------
+MTL: loss at step 192000, epoch 2400: 3.363628
+STL: loss at step 192000, epoch 2400: 2.340446
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 60.5%, sec task accuracy: 59.2%
+STL: Test- main task accuracy: 57.8%
+------------------------
+MTL: loss at step 193600, epoch 2420: 3.140546
+STL: loss at step 193600, epoch 2420: 2.101161
+MTL: Training- main task accuracy: 75.0%, sec task accuracy: 75.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 57.5%, sec task accuracy: 60.7%
+STL: Test- main task accuracy: 57.5%
+------------------------
+MTL: loss at step 195200, epoch 2440: 2.670571
+STL: loss at step 195200, epoch 2440: 1.984223
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 95.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 58.2%, sec task accuracy: 60.0%
+STL: Test- main task accuracy: 57.8%
+------------------------
+MTL: loss at step 196800, epoch 2460: 2.612170
+STL: loss at step 196800, epoch 2460: 2.221128
+MTL: Training- main task accuracy: 100.0%, sec task accuracy: 95.0%
+STL: Training- main task accuracy: 65.0%
+MTL: Test- main task accuracy: 60.0%, sec task accuracy: 62.5%
+STL: Test- main task accuracy: 59.0%
+------------------------
+MTL: loss at step 198400, epoch 2480: 3.537522
+STL: loss at step 198400, epoch 2480: 2.143365
+MTL: Training- main task accuracy: 60.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 60.5%, sec task accuracy: 64.2%
+STL: Test- main task accuracy: 54.0%
+------------------------
+MTL: loss at step 200000, epoch 2500: 2.884554
+STL: loss at step 200000, epoch 2500: 1.991182
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 75.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 59.5%, sec task accuracy: 59.5%
+STL: Test- main task accuracy: 58.5%
+------------------------
+MTL: loss at step 201600, epoch 2520: 2.728866
+STL: loss at step 201600, epoch 2520: 1.884916
+MTL: Training- main task accuracy: 95.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 59.7%, sec task accuracy: 63.2%
+STL: Test- main task accuracy: 56.2%
+------------------------
+MTL: loss at step 203200, epoch 2540: 2.953693
+STL: loss at step 203200, epoch 2540: 1.613679
+MTL: Training- main task accuracy: 70.0%, sec task accuracy: 95.0%
+STL: Training- main task accuracy: 100.0%
+MTL: Test- main task accuracy: 60.5%, sec task accuracy: 60.7%
+STL: Test- main task accuracy: 58.5%
+------------------------
+MTL: loss at step 204800, epoch 2560: 2.626191
+STL: loss at step 204800, epoch 2560: 1.881420
+MTL: Training- main task accuracy: 95.0%, sec task accuracy: 70.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 59.5%, sec task accuracy: 61.5%
+STL: Test- main task accuracy: 55.5%
+------------------------
+MTL: loss at step 206400, epoch 2580: 2.672342
+STL: loss at step 206400, epoch 2580: 1.920916
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 59.0%, sec task accuracy: 61.0%
+STL: Test- main task accuracy: 59.8%
+------------------------
+MTL: loss at step 208000, epoch 2600: 2.855175
+STL: loss at step 208000, epoch 2600: 1.794867
+MTL: Training- main task accuracy: 95.0%, sec task accuracy: 75.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 59.0%, sec task accuracy: 62.0%
+STL: Test- main task accuracy: 60.0%
+------------------------
+MTL: loss at step 209600, epoch 2620: 2.632863
+STL: loss at step 209600, epoch 2620: 1.772115
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 75.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 61.5%, sec task accuracy: 63.2%
+STL: Test- main task accuracy: 56.2%
+------------------------
+MTL: loss at step 211200, epoch 2640: 3.068095
+STL: loss at step 211200, epoch 2640: 1.619096
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 75.0%
+STL: Training- main task accuracy: 100.0%
+MTL: Test- main task accuracy: 62.0%, sec task accuracy: 61.0%
+STL: Test- main task accuracy: 55.2%
+------------------------
+MTL: loss at step 212800, epoch 2660: 2.863477
+STL: loss at step 212800, epoch 2660: 1.782681
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 57.8%, sec task accuracy: 60.2%
+STL: Test- main task accuracy: 57.5%
+------------------------
+MTL: loss at step 214400, epoch 2680: 3.184131
+STL: loss at step 214400, epoch 2680: 1.867711
+MTL: Training- main task accuracy: 70.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 75.0%
+MTL: Test- main task accuracy: 59.5%, sec task accuracy: 62.7%
+STL: Test- main task accuracy: 57.7%
+------------------------
+MTL: loss at step 216000, epoch 2700: 3.127523
+STL: loss at step 216000, epoch 2700: 2.130033
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 70.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 62.0%, sec task accuracy: 59.2%
+STL: Test- main task accuracy: 57.8%
+------------------------
+MTL: loss at step 217600, epoch 2720: 2.841145
+STL: loss at step 217600, epoch 2720: 1.707789
+MTL: Training- main task accuracy: 100.0%, sec task accuracy: 75.0%
+STL: Training- main task accuracy: 90.0%
+MTL: Test- main task accuracy: 59.3%, sec task accuracy: 59.7%
+STL: Test- main task accuracy: 59.2%
+------------------------
+MTL: loss at step 219200, epoch 2740: 3.068486
+STL: loss at step 219200, epoch 2740: 1.970261
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 59.0%, sec task accuracy: 61.0%
+STL: Test- main task accuracy: 58.2%
+------------------------
+MTL: loss at step 220800, epoch 2760: 2.868157
+STL: loss at step 220800, epoch 2760: 1.853934
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 90.0%
+MTL: Test- main task accuracy: 54.2%, sec task accuracy: 60.0%
+STL: Test- main task accuracy: 60.8%
+------------------------
+MTL: loss at step 222400, epoch 2780: 3.108760
+STL: loss at step 222400, epoch 2780: 2.010980
+MTL: Training- main task accuracy: 65.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 58.0%, sec task accuracy: 61.7%
+STL: Test- main task accuracy: 58.5%
+------------------------
+MTL: loss at step 224000, epoch 2800: 2.595660
+STL: loss at step 224000, epoch 2800: 2.082986
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 100.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 60.5%, sec task accuracy: 63.0%
+STL: Test- main task accuracy: 55.8%
+------------------------
+MTL: loss at step 225600, epoch 2820: 2.544213
+STL: loss at step 225600, epoch 2820: 1.671353
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 95.0%
+STL: Training- main task accuracy: 90.0%
+MTL: Test- main task accuracy: 56.5%, sec task accuracy: 61.2%
+STL: Test- main task accuracy: 59.3%
+------------------------
+MTL: loss at step 227200, epoch 2840: 3.030767
+STL: loss at step 227200, epoch 2840: 1.920985
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 90.0%
+MTL: Test- main task accuracy: 59.7%, sec task accuracy: 62.2%
+STL: Test- main task accuracy: 58.7%
+------------------------
+MTL: loss at step 228800, epoch 2860: 2.993934
+STL: loss at step 228800, epoch 2860: 1.693330
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 75.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 60.0%, sec task accuracy: 61.2%
+STL: Test- main task accuracy: 55.2%
+------------------------
+MTL: loss at step 230400, epoch 2880: 2.990860
+STL: loss at step 230400, epoch 2880: 1.896242
+MTL: Training- main task accuracy: 90.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 57.2%, sec task accuracy: 61.7%
+STL: Test- main task accuracy: 57.0%
+------------------------
+MTL: loss at step 232000, epoch 2900: 2.845709
+STL: loss at step 232000, epoch 2900: 1.699369
+MTL: Training- main task accuracy: 95.0%, sec task accuracy: 80.0%
+STL: Training- main task accuracy: 95.0%
+MTL: Test- main task accuracy: 57.5%, sec task accuracy: 62.7%
+STL: Test- main task accuracy: 56.5%
+------------------------
+MTL: loss at step 233600, epoch 2920: 2.815388
+STL: loss at step 233600, epoch 2920: 1.870892
+MTL: Training- main task accuracy: 85.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 80.0%
+MTL: Test- main task accuracy: 59.0%, sec task accuracy: 61.7%
+STL: Test- main task accuracy: 57.0%
+------------------------
+MTL: loss at step 235200, epoch 2940: 2.846265
+STL: loss at step 235200, epoch 2940: 1.767110
+MTL: Training- main task accuracy: 80.0%, sec task accuracy: 90.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 61.2%, sec task accuracy: 59.0%
+STL: Test- main task accuracy: 57.5%
+------------------------
+MTL: loss at step 236800, epoch 2960: 3.259726
+STL: loss at step 236800, epoch 2960: 1.782999
+MTL: Training- main task accuracy: 70.0%, sec task accuracy: 95.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 59.0%, sec task accuracy: 62.7%
+STL: Test- main task accuracy: 54.7%
+------------------------
+MTL: loss at step 238400, epoch 2980: 3.507596
+STL: loss at step 238400, epoch 2980: 1.900432
+MTL: Training- main task accuracy: 65.0%, sec task accuracy: 85.0%
+STL: Training- main task accuracy: 85.0%
+MTL: Test- main task accuracy: 55.5%, sec task accuracy: 59.7%
+STL: Test- main task accuracy: 57.8%
+------------------------
+MTL: Final- main task accuracy: 57.3%, sec task accuracy: 61.0%
+STL: Final- main task accuracy: 57.5%
+Total time taken:2:44:59
